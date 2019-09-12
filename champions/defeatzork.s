@@ -1,4 +1,4 @@
-.name "Fuck you zork"
+.name "No you zork"
 .comment "I print shit"
 
 	st r01, r03
